@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard analyzing retail sales performance across outlets for Blinkit ("India's Last Minute App"). This was my first-ever Power BI project, built while learning the tool, and later revisited for GitHub.
 
-![Blinkit Dashboard Preview](./blinkit_dashboard_preview.png)
-
 ## Overview
 
 The dashboard provides a 360° view of sales performance across outlets, item categories, and locations, with fully interactive filtering.
